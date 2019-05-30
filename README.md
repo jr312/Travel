@@ -1,6 +1,10 @@
 # travel
 
-> A Vue.js project
+> 模拟去哪儿网app
+
+##页面预览
+![首页](/src/assets/eg1.PNG)
+![选择](/src/assets/eg2.PNG)
 
 ## Build Setup
 
